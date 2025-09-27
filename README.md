@@ -24,7 +24,7 @@
 
 ✦I plan to upload videos to my social media 📺.
 
-<h2 align="center">✦💻Languages and Technologies💻✦</h2>
+<h2 align="center">✦💻Languages and Software💻✦</h2>
 
 <p align="center"> I am currently learning Python🐍, Java☕, Photoshop✨, Illustrator🎨 and tools like Visual Studio Code💻. </p>
 
@@ -36,7 +36,7 @@
 <img src="https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=8B0000" alt="Visual Studio Code">
 </p>
 
-<h2 align="center">✦💻Operating Systems I Use/Have Used💻✦</h2>
+<h2 align="center">✦💻O.S I Use/Have Used💻✦</h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Kali%20Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=8B0000" alt="Kali Linux">
@@ -60,13 +60,13 @@
   </a>
 </p>
 
-<h2 align="center">✦🏆GitHub Trophies🏅✦</h2>
+<h2 align="center">✦🏆Trophies🏅✦</h2>
 
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" style="text-decoration: none;"><img src="https://github-profile-trophy.vercel.app/?username=imphynz&theme=discord" alt="GitHub Profile Trophy" width="800px"/></a>
 </p>
 
-<h2 align="center">✦🔥GitHub Streak Stats🔥✦</h2>
+<h2 align="center">✦🔥Streak Stats🔥✦</h2>
 
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=imPhynz&theme=radical&border_radius=16&short_numbers=true&date_format=%5BY.%5Dn.j&mode=weekly&card_width=500&card_height=200" alt="GitHub Streak" /></a>
